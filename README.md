@@ -12,7 +12,7 @@ These datasets are combined, cleaned into a single Pandas Dataframe:
 
 -> Class size -- class size information for each school in NYC.
 
--> AP test results -- Advanced Placement exam results for each high school. Passing AP exams can get you college credit in the US.
+-> AP test results -- Advanced Placement exam results for each high school. Passing AP exams can get you college credit    in the US.
 
 -> Graduation outcomes -- percentage of students who graduated, and other outcome information.
 
