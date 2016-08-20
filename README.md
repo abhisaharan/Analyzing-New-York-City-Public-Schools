@@ -6,8 +6,7 @@ New York City has a significant immigrant population, and is very diverse, so co
 
 These datasets are combined, cleaned into a single Pandas Dataframe:
 
--> SAT scores by school -- SAT scores for each high school in New York City./n
-
+-> SAT scores by school -- SAT scores for each high school in New York City.
 -> School attendance -- attendance information on every school in NYC.
 -> Class size -- class size information for each school in NYC.
 -> AP test results -- Advanced Placement exam results for each high school. Passing AP exams can get you college credit in the US.
