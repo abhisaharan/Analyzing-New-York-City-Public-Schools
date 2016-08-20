@@ -1,6 +1,7 @@
 # Analyzing-New-York-City-Public-Schools
 Analyzing New York Public Schools Data
 Explored the relationship between SAT scores and demographic factors in New York City public schools. Scholastic Aptitude Test, is a test given to graduating high schoolers in the United States every year. The SAT has 3 sections, each of them worth 800 points. New York City has published data on the SAT scores of students, along with additional demographic datasets.
+
 New York City has a significant immigrant population, and is very diverse, so comparing demographic factors such as race, income, and gender with SAT scores is a good way to figure out if the SAT is a fair test. If certain racial groups consistently performed better on the SAT, we would have some evidence that the SAT is unfair, for example.
 
 These datasets are combined, cleaned into a single Pandas Dataframe:
